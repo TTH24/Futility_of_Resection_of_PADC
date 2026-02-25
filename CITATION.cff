@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Prediction Tool for Surgical Failure Risk After Neoadjuvant Therapy in PDAC"
+authors:
+  - family-names: Teng
+    given-names: Tian-Hong
+    email: tianhongteng24@163.com
+  - family-names: Luo
+    given-names: Hao-Teng
+  - family-names: Xie
+    given-names: Zhi-Qiang
+version: 1.0.0
+date-released: 2026-02-25
+repository-code: https://github.com/TTH24/Futility_of_Resection_of_PADC
+license: MIT
